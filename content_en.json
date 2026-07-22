@@ -1,0 +1,611 @@
+{
+  "version": "1.0",
+  "lang": "en",
+  "updated": "2026-07-22",
+  "stems": {
+    "GAP": [
+      "You are naturally driven to move forward and create your own path. You tend to be strong-willed, confident, and willing to take responsibility when others hesitate. At times, you may become too focused on your own direction, so learning to pause and listen can help you grow into an even stronger leader.",
+      "You have a pioneering spirit and often feel most comfortable when you are building something new. People may naturally look to you for direction because you have the courage to make decisions and keep moving during difficult times. Just remember that strength does not always mean pushing forward; knowing when to adapt can be one of your greatest advantages.",
+      "You tend to stand tall in your beliefs and have a strong sense of purpose. Once you decide what matters to you, you can remain remarkably persistent and inspire others with your determination. However, you may sometimes hold onto your plans too tightly, so making room for different perspectives can open unexpected opportunities.",
+      "You have the energy of someone who wants to grow, lead, and make a meaningful impact. You are often at your best when you have a clear goal and the freedom to pursue it in your own way. Your confidence is a strength, but balancing it with patience and consideration for others will make your relationships and achievements even more rewarding.",
+      "You naturally look toward the future and have a strong desire to build something that lasts. You can be dependable in important moments because you are not easily shaken by challenges or uncertainty. When your determination becomes stubbornness, taking a step back and considering another route can help you reach your goals more wisely."
+    ],
+    "EUL": [
+      "You are naturally flexible and know how to adapt when circumstances change. Like a vine finding its way around obstacles, you often discover creative paths forward without forcing everything to happen your way. At times, you may put other people's needs before your own, so remembering your own priorities is important.",
+      "You have a gentle strength that allows you to adjust to different people and environments. Rather than competing directly, you often succeed by understanding the situation and finding the best way to work with it. However, being too accommodating can make your own wishes difficult to express, so practice speaking up when something truly matters to you.",
+      "You tend to be thoughtful, observant, and naturally good at sensing what a situation needs. Your ability to adapt can help you build meaningful relationships and overcome challenges that might stop others. Just be careful not to change yourself too much for the sake of keeping everyone happy.",
+      "You have a quiet resilience that may not always be obvious at first. You can bend when necessary without losing your ability to keep growing toward what you want. Sometimes you may hesitate because you see too many sides of a situation, so trusting your own judgment can help you move forward with greater confidence.",
+      "You are someone who can grow in many different environments because you know how to adjust and learn. Your sensitivity to people and circumstances often helps you find opportunities that others overlook. When you feel uncertain, remember that being flexible is a strength, but having clear personal boundaries will help you use it wisely."
+    ],
+    "BYEONG": [
+      "You have a bright and expressive nature that naturally draws attention and warmth from the people around you. You tend to bring enthusiasm wherever you go and can inspire others through your confidence and passion. At times, your emotions may become intense, so learning to slow down and listen can help you shine even more.",
+      "You are naturally optimistic and often have a strong desire to experience life fully. Your energy can encourage others to feel more confident and hopeful, especially when you believe in what you are doing. However, you may sometimes act before thinking things through, so giving yourself a moment to pause can lead to better decisions.",
+      "You have a generous spirit and a natural ability to express your feelings openly. When you care about something, your passion can become a powerful source of motivation for yourself and others. Because your enthusiasm can sometimes burn too brightly, making time for rest and reflection will help you maintain your energy.",
+      "You tend to approach life with warmth, confidence, and a desire to make a difference. People may remember you because of your lively presence and the positive energy you bring into a room. Your challenge may be learning that not every situation needs immediate action, and patience can sometimes create better results than speed.",
+      "You have a natural gift for bringing light and energy into the lives of others. You often thrive when you can express yourself freely and pursue something that genuinely excites you. When disappointment affects your mood, try to remember that your inner brightness does not depend on every moment going perfectly."
+    ],
+    "JEONG": [
+      "You have a warm and focused nature, with an ability to notice details that others may overlook. Your intuition often guides you toward what feels meaningful, and you can be deeply committed once your heart is involved. At times, you may become overly sensitive or absorbed in one concern, so stepping back can help you regain perspective.",
+      "You tend to have a quiet but powerful inner passion that grows stronger when you find something worth caring about. Rather than seeking attention, you often influence others through sincerity, warmth, and thoughtful actions. Because you may keep your feelings inside, learning to express them openly can make your relationships more fulfilling.",
+      "You have a natural ability to create warmth and comfort for the people around you. Your focused nature helps you stay dedicated to things that truly matter, especially when you feel emotionally connected to them. However, you may sometimes worry too much about small details, so learning to trust the bigger picture can bring more peace.",
+      "You are often perceptive and sensitive to subtle changes in people and situations. This allows you to understand emotions deeply and respond with care and insight. Your sensitivity is a strength, but protecting your energy and setting healthy boundaries can help you avoid becoming overwhelmed.",
+      "You tend to shine in a quiet and personal way, especially when you are doing something that reflects your true values. You can be highly focused and persistent when your heart is engaged, and your warmth can leave a lasting impression on others. When you become too absorbed in your own thoughts, taking time to connect with the outside world can restore your balance."
+    ],
+    "MU": [
+      "You have a stable and dependable nature that makes others feel they can rely on you. You tend to be patient, persistent, and willing to carry responsibility when things become difficult. At times, you may resist change because you value stability, so staying open to new possibilities can help you grow.",
+      "You often provide a sense of strength and calm in uncertain situations. Once you commit to something, you can keep working toward it with impressive patience and consistency. However, you may sometimes carry too much on your shoulders, so learning to ask for support can make your journey easier.",
+      "You tend to think carefully and prefer building lasting results rather than chasing quick success. Your steady approach can help you become someone others trust during important moments. Just be mindful that being dependable does not mean you must always be the one who solves every problem.",
+      "You have a grounded personality and often prefer a clear sense of purpose before taking action. Your patience allows you to handle challenges that require time and persistence, and your reliability can become one of your greatest strengths. When you become too fixed in your thinking, trying a different approach can reveal new opportunities.",
+      "You naturally create a feeling of stability wherever you are. People may come to you for practical advice because you tend to remain calm and thoughtful when others feel uncertain. Your strength becomes even greater when you balance your patience with enough flexibility to welcome change."
+    ],
+    "GI": [
+      "You have a nurturing and practical nature, and you often notice what people or situations need to grow. You tend to be thoughtful, careful, and good at turning small details into meaningful results. At times, you may worry too much about getting everything right, so remember that progress does not require perfection.",
+      "You are naturally attentive to the needs of others and often show care through practical actions. Your ability to organize details and create a supportive environment can make you someone people trust. However, you may sometimes focus so much on helping others that you forget to care for yourself.",
+      "You tend to have a patient and grounded way of handling everyday life. You are good at taking something small and gradually developing it into something useful and lasting. When you become overly cautious, remind yourself that taking a reasonable risk can also be part of growth.",
+      "You have a quiet ability to create stability through careful attention and consistent effort. Rather than seeking quick results, you often prefer to build things properly from the beginning. Your thoughtful nature is valuable, but try not to let excessive concern about details prevent you from moving forward.",
+      "You naturally understand that meaningful growth often comes from patience, care, and steady effort. You can be dependable and resourceful, especially when others need practical support. Because you may take on too many responsibilities, learning to set limits will help you protect your own energy."
+    ],
+    "GYEONG": [
+      "You have a strong and decisive nature that allows you to act when important choices need to be made. You tend to value honesty, principles, and clear standards, and others may respect your sense of integrity. At times, your directness may feel intense to others, so adding a little softness to your communication can strengthen your relationships.",
+      "You are naturally courageous and often willing to face difficult situations rather than avoid them. Once you believe something is right, you can stand firmly behind your convictions. However, being strong does not mean you must always fight every battle, so choosing where to invest your energy is important.",
+      "You tend to be straightforward, determined, and capable of making difficult decisions under pressure. Your strong sense of fairness can make you a reliable person when others need someone to stand up for what matters. Just remember that flexibility can sometimes achieve more than resistance.",
+      "You have a powerful inner drive and a clear sense of what you believe in. You often perform well in situations that require courage, discipline, and decisive action. When your determination becomes too rigid, taking time to understand another person's perspective can help you find stronger solutions.",
+      "You naturally approach challenges with strength and a willingness to take action. You can be highly dependable when a situation requires someone who will not easily give up or back down. Your greatest growth may come from learning when to be firm and when to let go, allowing your strength to work with the situation rather than against it."
+    ],
+    "SIN": [
+      "You have a refined and perceptive nature, with a strong eye for quality and subtle details. You often notice things that others overlook and can bring elegance and precision to whatever you do. At times, your high standards may make you overly critical of yourself, so remember to appreciate your progress as well.",
+      "You tend to be thoughtful, selective, and sensitive to the atmosphere around you. Your ability to recognize beauty and detail can become a valuable strength in both creative and practical areas. However, you may sometimes spend too much time searching for the perfect choice, so learning to accept \"good enough\" can help you move forward.",
+      "You have a quiet sense of pride and often care deeply about doing things properly. You may prefer a smaller circle of meaningful relationships rather than being close to everyone. Because you can be sensitive to criticism, trusting your own value can help you become more confident and relaxed.",
+      "You naturally seek clarity, refinement, and a sense of personal standards. Your perceptiveness allows you to understand subtle differences and make thoughtful judgments that others may miss. When you become too focused on imperfections, stepping back to see the whole picture can bring greater balance.",
+      "You have a delicate but resilient nature, and your strength often appears through precision rather than force. You can be highly discerning and capable of creating something truly polished when you care about the result. Just be careful not to let perfectionism delay your progress or make you underestimate what you have already accomplished."
+    ],
+    "IM": [
+      "You have a broad and imaginative mind that naturally seeks freedom, exploration, and new experiences. You tend to adapt well to changing situations and may see possibilities where others see limitations. At times, you may become restless when life feels too predictable, so creating some structure can help turn your ideas into lasting results.",
+      "You are naturally curious and often drawn toward new places, ideas, and perspectives. Your imagination can be powerful, and you may have a talent for understanding the bigger picture rather than getting stuck in small details. However, having many interests can make it difficult to stay focused, so choosing a clear direction can help you go further.",
+      "You tend to think deeply while also enjoying the freedom to explore different possibilities. Your flexible mind allows you to connect ideas and experiences in creative ways that others may not immediately see. When you feel pulled in too many directions, taking time to define what truly matters can help you use your energy wisely.",
+      "You have a natural sense of movement and change, and you often grow through experience rather than routine. You can be imaginative, open-minded, and comfortable with unfamiliar situations. Your challenge may be staying grounded when inspiration takes you in many directions, so simple routines can give your freedom a stronger foundation.",
+      "You often have a rich inner world and a desire to experience life beyond familiar boundaries. Your ability to see different possibilities can make you adaptable and inventive in challenging situations. When you combine that freedom-loving spirit with patience and consistency, you can turn your broad vision into something truly meaningful."
+    ],
+    "GYE": [
+      "You have a sensitive and intuitive nature that allows you to notice emotions and subtle changes around you. You may understand people deeply without needing many words, and your imagination can be a quiet source of creativity. At times, you may absorb too much from your surroundings, so protecting your emotional boundaries is important.",
+      "You tend to be thoughtful, observant, and deeply connected to your inner world. Your intuition often gives you insights that are difficult to explain logically, especially when it comes to people and relationships. Because you can be easily affected by your environment, creating peaceful spaces for yourself can help you stay balanced.",
+      "You have a gentle nature with surprising depth beneath the surface. You may be highly sensitive to the feelings of others and able to adapt quietly to changing circumstances. However, you can sometimes keep too much inside, so expressing your thoughts and emotions can help you feel lighter and more understood.",
+      "You naturally notice details, moods, and possibilities that many people overlook. This sensitivity can give you strong intuition and a rich imagination, especially when you have time to reflect. When uncertainty makes you overthink, grounding yourself in simple routines and practical actions can help restore clarity.",
+      "You tend to move through life with quiet sensitivity and a deep awareness of the world around you. Your ability to observe, feel, and adapt can become a powerful source of wisdom and creativity. When you learn to protect your energy while trusting your intuition, your gentle nature can become one of your greatest strengths."
+    ]
+  },
+  "strength": {
+    "VERY_STRONG": [
+      "You have a strong sense of self and tend to trust your own judgment when making decisions. You are capable of taking initiative and standing firm even when others disagree with you. Because your inner drive is powerful, learning to stay flexible and welcome different perspectives can help you use your strength in the most positive way.",
+      "You naturally have a powerful presence and are not easily influenced by the opinions or pressure of others. You tend to rely on your own abilities and can remain determined even when facing difficult challenges. At times, you may try to handle everything on your own, so allowing trusted people to support you can create greater balance in your life.",
+      "You have a strong inner foundation that gives you confidence and persistence when pursuing your goals. Once you make up your mind, you can move forward with impressive determination and courage. Your greatest growth comes from knowing when to hold your ground and when to adapt to changing circumstances."
+    ],
+    "STRONG": [
+      "You tend to have confidence in your abilities and are comfortable taking responsibility for your choices. You can move forward steadily when you have a clear goal and are often capable of overcoming challenges through your own effort. Remember that combining your independence with cooperation can open even more doors for you.",
+      "You have a solid sense of direction and usually know what you want to achieve. Your determination helps you stay focused, and you are unlikely to give up easily when things become difficult. At times, taking a moment to listen to others before acting can help you discover better solutions.",
+      "You naturally have the energy to pursue your goals and the confidence to make your own decisions. You tend to perform well when you are given freedom and responsibility, especially when you believe in what you are doing. Keeping an open mind and allowing yourself to adjust your plans can make your strengths even more effective."
+    ],
+    "NEUTRAL": [
+      "You tend to have a balanced approach to life, knowing when to move forward and when to step back. You can rely on your own abilities while also recognizing the value of support and cooperation from others. Maintaining this sense of balance and trusting your natural rhythm can help you make thoughtful choices.",
+      "You have a flexible nature that allows you to respond to different situations without becoming easily overwhelmed. You can be independent when necessary while also adapting well to the needs of the people around you. Your ability to find the middle ground is a strength, so continue building your life through steady and consistent choices.",
+      "You often have a healthy balance between confidence and openness, allowing you to consider both your own needs and outside perspectives. You may be able to adjust your approach depending on the circumstances without losing your sense of identity. Staying connected to what truly matters to you will help you maintain this natural balance over time."
+    ],
+    "WEAK": [
+      "You may be more sensitive to your surroundings and the influence of the people around you than others. You can benefit greatly from supportive relationships and environments that help you feel confident and secure. Building small habits, setting clear boundaries, and trusting your own decisions step by step can gradually strengthen your sense of stability.",
+      "You tend to be thoughtful and receptive, often considering other people's opinions before making important choices. This can make you understanding and adaptable, but you may sometimes doubt yourself more than necessary. Give yourself permission to make small decisions independently and celebrate your progress as your confidence grows.",
+      "You may find that your energy and confidence change depending on your environment and circumstances. When you are surrounded by encouragement and positive influences, you can discover strengths that you did not realize you had. Focus on creating a stable daily routine and taking consistent small steps toward your goals."
+    ],
+    "VERY_WEAK": [
+      "You may be highly sensitive to your surroundings and can easily notice the emotions, expectations, and energy of others. Because of this, you may sometimes put other people's needs before your own or hesitate to trust your instincts. Creating strong personal boundaries and building confidence through small, achievable goals can help you feel more grounded.",
+      "You tend to absorb experiences deeply and may need more time than others to feel certain about your choices. Your sensitivity can become a meaningful strength when you learn to use it as intuition rather than allowing it to create self-doubt. Surround yourself with supportive people and focus on steady routines that help you feel secure.",
+      "You may sometimes feel easily influenced by changing circumstances, but this also gives you a remarkable ability to observe, adapt, and understand others. Rather than forcing yourself to move at someone else's pace, give yourself the time and space you need to grow. With consistent support, clear boundaries, and small steps forward, you can gradually build a stronger sense of confidence and stability."
+    ]
+  },
+  "yongsin": {
+    "WOOD": [
+      "Surrounding yourself with WOOD energy can help you feel more connected to growth, renewal, and forward movement. Spend time around trees and plants, use green in your surroundings, explore the east direction, and choose activities that encourage learning and personal growth.",
+      "Bringing more WOOD energy into your daily life can support a sense of fresh momentum and healthy development. You may benefit from caring for plants, spending time in nature, wearing green, or starting new projects that allow you to learn and grow step by step.",
+      "Welcoming WOOD energy can help you create a more flexible and progressive flow in your life. Connect with the east, surround yourself with greenery, and choose activities that involve creativity, education, planning, or nurturing something that can grow over time."
+    ],
+    "FIRE": [
+      "Surrounding yourself with FIRE energy can bring warmth, confidence, passion, and active movement into your life. Spend time in sunlight, use red or orange in your surroundings, explore the south direction, and take part in activities that make you feel energized and inspired.",
+      "Bringing more FIRE energy into your daily routine can help you express yourself with greater confidence and enthusiasm. Enjoy sunlight, exercise regularly, connect with warm and positive people, and use red or orange accents to create a more lively atmosphere around you.",
+      "Welcoming FIRE energy can encourage passion, visibility, and positive action. Spend time in bright and warm environments, explore the south, enjoy activities that raise your energy, and allow yourself to express your ideas and emotions more openly."
+    ],
+    "EARTH": [
+      "Surrounding yourself with EARTH energy can help you feel grounded, stable, and emotionally centered. Use yellow or brown in your surroundings, spend time in calm natural spaces, and create regular routines that give your daily life a steady rhythm.",
+      "Bringing more EARTH energy into your life can support patience, stability, and a stronger sense of security. Focus on consistent routines, organize your living space, enjoy grounding activities such as walking in nature, and choose warm earth tones like yellow or brown.",
+      "Welcoming EARTH energy can help you build a more balanced and dependable foundation. Keep a regular schedule, take care of practical responsibilities step by step, spend time connecting with nature, and create a comfortable environment with natural and earthy colors."
+    ],
+    "METAL": [
+      "Surrounding yourself with METAL energy can help bring clarity, structure, and focus into your life. Use white or silver in your surroundings, explore the west direction, organize your space, and choose activities that encourage discipline, precision, and clear decision-making.",
+      "Bringing more METAL energy into your daily routine can support a sharper mind and a stronger sense of order. Keep your environment clean and organized, wear white or silver, spend time in the west when possible, and create clear priorities for your goals.",
+      "Welcoming METAL energy can help you simplify what feels complicated and focus on what truly matters. Use clean and organized spaces, incorporate white or silver tones, and develop habits that encourage concentration, planning, and thoughtful decision-making."
+    ],
+    "WATER": [
+      "Surrounding yourself with WATER energy can support wisdom, reflection, flexibility, and a deeper understanding of yourself. Spend time near water, use black or blue in your surroundings, explore the north direction, and make space for quiet reflection and learning.",
+      "Bringing more WATER energy into your daily life can help you move through change with greater flexibility and insight. Spend time near rivers, lakes, or the ocean, wear blue or black, and create quiet moments for reading, meditation, or thoughtful reflection.",
+      "Welcoming WATER energy can encourage calm thinking, intuition, and a more natural flow in your life. Connect with the north, spend time around water when possible, choose blue or black tones, and allow yourself regular periods of rest and reflection before making important decisions."
+    ]
+  },
+  "tags": {
+    "LEADER": [
+      "You naturally take initiative and often feel comfortable guiding others toward a shared goal. Your confidence can inspire people, but remember that the strongest leadership also comes from listening and making room for different perspectives.",
+      "You have a natural ability to step forward when direction is needed and take responsibility for important decisions. Others may look to you for confidence and guidance, so balance your strong opinions with patience and thoughtful listening.",
+      "You tend to feel energized when you have the freedom to make decisions and create a clear direction. Your determination can help others move forward, but allowing people to contribute their own ideas can make your leadership even more effective.",
+      "You often have the courage to take charge when others hesitate, especially in situations that require clear action. Use this strength to encourage people rather than simply directing them, and your influence can become both powerful and supportive.",
+      "You have a strong presence and may naturally become the person others turn to when something needs to be organized or decided. Your ability to lead is a valuable strength, and combining confidence with empathy can help you build lasting trust."
+    ],
+    "CREATIVE": [
+      "You have a natural imagination that allows you to see possibilities others may overlook. Your ideas can be original and inspiring, so give yourself enough freedom to experiment without worrying too much about perfection.",
+      "You tend to approach problems from unusual angles and may enjoy creating something that reflects your unique perspective. Your creativity grows when you stay curious, explore new experiences, and allow yourself to try ideas that may not work at first.",
+      "Your mind may naturally connect different ideas and turn ordinary experiences into something fresh and interesting. Trust your imagination, but remember that giving your ideas structure can help transform inspiration into meaningful results.",
+      "You often bring originality and fresh energy into whatever you do. Because you may become bored with repetition, finding projects that allow room for experimentation can help you stay motivated and express your full potential.",
+      "You have a strong ability to imagine what could be rather than simply accepting what already exists. Your creative vision can become a meaningful strength when you balance inspiration with patience and consistent effort."
+    ],
+    "SOCIABLE": [
+      "You naturally enjoy connecting with people and can often make others feel comfortable in your presence. Your openness is a strength, though making time for quieter moments can help you protect your own energy.",
+      "You tend to communicate easily and may find that new relationships develop naturally around you. Your friendly nature can open many doors, but choosing quality connections over trying to please everyone can bring greater satisfaction.",
+      "You often gain energy from conversation, shared experiences, and meeting different kinds of people. Your ability to build rapport is valuable, and listening as carefully as you speak can make your relationships even stronger.",
+      "You have a natural talent for creating a warm atmosphere where people feel welcome. You may sometimes spread your attention too widely, so remembering to invest deeply in the relationships that truly matter can help.",
+      "People may be drawn to your approachable and engaging personality. You can build a wide network with ease, and learning to maintain healthy boundaries will help you enjoy your social strengths without becoming overwhelmed."
+    ],
+    "ANALYTICAL": [
+      "You naturally like to understand how things work before making important decisions. Your careful thinking can help you avoid mistakes, but remember that sometimes a good decision requires action before every detail is perfectly clear.",
+      "You tend to notice patterns, details, and small differences that others may overlook. This makes you strong at solving complex problems, though setting a time limit for analysis can help prevent overthinking.",
+      "You have a thoughtful mind that prefers evidence and logic over rushed conclusions. Your ability to examine situations deeply is valuable, and balancing careful analysis with trust in your intuition can help you move forward more confidently.",
+      "You often feel most comfortable when you have enough information to understand the bigger picture. Your attention to detail can produce excellent results, but remember that not every decision needs to be completely certain before you begin.",
+      "You have a natural ability to break complicated situations into smaller, manageable pieces. This makes you a thoughtful problem-solver, and learning when to stop analyzing and start acting can make your strengths even more powerful."
+    ],
+    "PERSISTENT": [
+      "You have the ability to keep moving forward even when progress is slow or challenges appear along the way. Your determination is a major strength, but remember that changing direction when necessary is not the same as giving up.",
+      "Once you decide that something truly matters to you, you can stay committed for a long time. Your patience gives you an advantage in goals that require steady effort, so remember to celebrate small achievements along the way.",
+      "You tend to be someone who finishes what you start, even when the excitement of the beginning has faded. This reliability can lead to meaningful results, especially when you combine persistence with regular rest and reflection.",
+      "Your strength lies in your ability to endure and continue when others may lose motivation. Be careful not to hold onto a plan simply because you have invested time in it, and allow yourself to adjust when a better path appears.",
+      "You have a strong capacity for patience and long-term effort. Your willingness to keep trying can turn difficult goals into achievable ones, especially when you remain flexible and learn from each step."
+    ],
+    "EMOTIONAL": [
+      "You tend to experience feelings deeply and may notice emotional changes that others easily miss. Your sensitivity can help you understand people well, and creating healthy emotional boundaries can keep you from carrying too much of others' feelings.",
+      "You have a rich inner world and often respond to experiences with genuine feeling and empathy. This can make you caring and intuitive, though taking time to step back from intense emotions can help you make clearer decisions.",
+      "You naturally connect with the emotional side of people and situations, which can give you strong empathy and understanding. Your feelings are a valuable source of insight, and learning to express them calmly can strengthen your relationships.",
+      "You may be deeply affected by the atmosphere around you and can quickly sense when something feels different. This sensitivity is a strength when guided with self-awareness, so remember to protect your own emotional space.",
+      "You have the ability to feel and understand experiences on a deeper level than many people. Your emotional depth can become a source of creativity and compassion when you give yourself enough time to process what you feel."
+    ],
+    "PRACTICAL": [
+      "You tend to focus on what can actually be done rather than spending too much time on abstract possibilities. Your realistic approach helps turn ideas into results, though leaving some room for experimentation can reveal opportunities you might otherwise miss.",
+      "You have a strong sense of what is useful, efficient, and realistic in everyday life. People may rely on you when something needs to get done, and balancing practicality with flexibility can help you adapt to unexpected situations.",
+      "You naturally look for solutions that work in the real world and prefer steady progress over empty promises. Your grounded approach is a valuable strength, and occasionally allowing yourself to dream bigger can expand your possibilities.",
+      "You tend to make decisions based on experience and tangible results. This can help you build a stable life, while remembering that not every worthwhile opportunity can be measured immediately may help you stay open-minded.",
+      "You have a natural ability to organize ideas into practical action. Your common sense can help you avoid unnecessary complications, and combining it with a little creativity can make your solutions even more effective."
+    ],
+    "GOOD_INVESTOR": [
+      "You may have a natural ability to evaluate opportunities carefully and recognize when patience is more valuable than quick action. Your thoughtful approach can support good financial decisions, but always remember to manage risk rather than relying only on confidence.",
+      "You tend to notice patterns and think carefully before committing your resources. This measured approach can be a strength in investing, especially when you continue learning and avoid letting emotions control important decisions.",
+      "You may have a talent for balancing opportunity with practical judgment when considering financial choices. Your strength grows when you research thoroughly, diversify appropriately, and remain patient instead of chasing short-term excitement.",
+      "You often prefer to understand the reasons behind an opportunity before taking action. This careful mindset can help you make thoughtful choices, while remembering that every investment carries uncertainty is essential.",
+      "You may naturally approach financial opportunities with curiosity and analysis rather than acting purely on impulse. Continue building your knowledge, define your risk limits clearly, and let disciplined habits guide your decisions."
+    ],
+    "STABLE_INCOME": [
+      "You tend to value financial security and may feel most comfortable when your income is predictable and well managed. Your steady approach can help you build a reliable foundation, while staying open to reasonable opportunities for growth can broaden your options.",
+      "You often prefer dependable progress over uncertain financial rewards. This practical mindset can support long-term stability, especially when you combine consistent saving with gradual skill development.",
+      "You have a natural appreciation for structure and financial predictability. Your ability to maintain steady habits can become a major strength, though occasionally exploring carefully considered changes may help you avoid becoming too comfortable.",
+      "You may feel motivated by the security that comes from having a reliable source of income and clear financial plans. This gives you a strong foundation, and learning new skills alongside your stable path can create additional possibilities.",
+      "You tend to build financial security through patience, consistency, and sensible choices. Your steady nature can serve you well over time, especially when you balance stability with a willingness to adapt as circumstances change."
+    ],
+    "RISK_TAKER": [
+      "You are often willing to step into uncertain situations when you see an opportunity for meaningful growth. Your courage can help you discover possibilities others avoid, but setting clear limits before taking risks can help protect your progress.",
+      "You tend to feel energized by challenges and may be comfortable making bold choices when the potential reward feels worthwhile. Your adventurous mindset is valuable, and careful preparation can help turn courage into smart action.",
+      "You have a natural willingness to explore unfamiliar financial opportunities and are not easily frightened by uncertainty. Your boldness can create new possibilities, but balancing enthusiasm with research and risk management is important.",
+      "You may be drawn to opportunities that offer the possibility of significant change rather than slow, predictable progress. This courage can be a strength, especially when you take calculated risks instead of acting on impulse.",
+      "You often have the confidence to make a move when others are still hesitating. Your willingness to embrace uncertainty can open new doors, and defining your limits clearly can help you stay adventurous without becoming reckless."
+    ],
+    "ROMANTIC": [
+      "You tend to value emotional connection and may enjoy expressing affection through thoughtful words and meaningful gestures. Your warmth can make relationships feel special, and remembering that real love also grows through everyday understanding can deepen your bonds.",
+      "You have a naturally affectionate heart and may appreciate beautiful moments, sincere conversations, and emotional closeness. Your idealism can bring warmth to relationships, while keeping expectations realistic can help love feel more comfortable and lasting.",
+      "You often look for a relationship that feels emotionally meaningful rather than simply convenient. Your ability to express genuine affection is a strength, and allowing love to develop naturally can help you build deeper trust.",
+      "You may have a vivid imagination about love and enjoy creating memorable experiences with someone special. This sensitivity brings charm to your relationships, though accepting people as they are can be just as important as appreciating the ideal.",
+      "You tend to show love through warmth, attention, and emotional presence. Your caring nature can create strong connections, and balancing your dreams of love with open communication can help relationships grow in healthy ways."
+    ],
+    "LOYAL": [
+      "You take relationships seriously and tend to remain committed to people who have earned your trust. Your loyalty is a powerful strength, but remember that healthy commitment should include mutual respect and boundaries.",
+      "Once you decide that someone truly matters to you, you are often willing to stand beside them through difficult times. Your dependable nature makes you a trusted companion, though you should also make sure your loyalty is appreciated and returned.",
+      "You value trust and consistency and may prefer a small circle of meaningful relationships over many shallow connections. Your dedication is admirable, and learning to let go of relationships that repeatedly hurt you can protect your well-being.",
+      "People may see you as someone they can depend on when circumstances become difficult. You tend to stay true to your promises, and remembering to care for your own needs as well as others can create healthier relationships.",
+      "You have a strong sense of commitment and rarely abandon someone simply because things become inconvenient. This makes you trustworthy and dependable, while maintaining clear boundaries can help ensure your loyalty is never taken for granted."
+    ],
+    "INDEPENDENT": [
+      "You value freedom and often feel most comfortable when you can make your own decisions and manage your own path. Your independence is a strength, though remembering to ask for help when needed can make life easier without taking away your autonomy.",
+      "You tend to trust your own judgment and enjoy having control over how you approach your goals. This self-reliance can help you achieve a great deal, but allowing others to support you can create valuable connections without limiting your freedom.",
+      "You have a strong desire to live according to your own values rather than simply following expectations. Your individuality is one of your strengths, and staying open to advice can help you combine independence with wisdom.",
+      "You often perform best when you have the space to think and act in your own way. Your ability to rely on yourself is valuable, but sharing your thoughts and experiences with trusted people can sometimes reveal perspectives you had not considered.",
+      "You are naturally self-directed and may prefer creating your own solutions rather than waiting for others to guide you. This can lead to strong personal growth, especially when you balance your independence with meaningful cooperation."
+    ],
+    "HIGH_ENERGY": [
+      "You tend to have a lively presence and may feel most fulfilled when you are actively doing something meaningful. Your enthusiasm can motivate others, though making time for rest is essential to keep your energy sustainable.",
+      "You often bring speed, enthusiasm, and momentum into your daily life. Your active nature helps you get things moving, but learning when to slow down can prevent unnecessary exhaustion.",
+      "You have a natural drive to explore, act, and experience new things. Your energy can become a powerful advantage when you focus it on clear goals and remember to give yourself enough recovery time.",
+      "You may find it difficult to remain still when there is something interesting to pursue. Your enthusiasm can inspire people around you, and balancing activity with quiet reflection can help you use your energy more effectively.",
+      "You naturally bring vitality and movement into the situations you enter. Your ability to stay active and motivated is a valuable strength, especially when you learn to manage your pace rather than constantly pushing yourself."
+    ],
+    "CAREFUL_HEALTH": [
+      "You tend to be more aware of how your physical condition affects your daily life and may notice changes in your energy quickly. This awareness can help you build good habits, so focus on prevention, regular routines, and giving yourself enough rest.",
+      "You may naturally pay close attention to your well-being and prefer to take care of small concerns before they become bigger distractions. Your careful attitude is valuable, but try not to let worry replace calm and practical self-care.",
+      "You have a thoughtful approach to maintaining your physical and emotional balance. Listening to your body and keeping consistent routines can support you well, while avoiding excessive worry can help you enjoy daily life more comfortably.",
+      "You may be sensitive to changes in your energy and are often aware when your body needs a break. Use this awareness as a guide to build healthy routines, but remember that occasional tiredness is also a normal part of life.",
+      "You tend to benefit from paying attention to rest, nutrition, movement, and stress management. Your awareness can become a strong advantage when you focus on steady healthy habits rather than becoming overly concerned about every small change."
+    ]
+  },
+  "fortune": {
+    "TODAY": {
+      "WEALTH": {
+        "STRONG": [
+          "You may find a small financial opportunity today, so pay attention to useful information and practical choices. Take action on what feels reasonable, but avoid unnecessary spending.",
+          "Today favors clear and sensible decisions about money. Review your priorities, take advantage of a practical opportunity, and keep your spending intentional.",
+          "Your financial flow may feel active today, making it a good time to organize expenses or explore a useful opportunity. Trust careful judgment and take one meaningful step forward."
+        ],
+        "WEAK": [
+          "Money matters may require a little extra caution today, especially with impulse purchases or rushed decisions. Keep things simple and focus on protecting what you already have.",
+          "Today may not be ideal for taking unnecessary financial risks or making quick purchases. A careful choice now can help create a more comfortable flow in the days ahead.",
+          "You may need to watch small expenses more closely today, as they can add up faster than expected. Stay patient and remember that a slower decision can often be the wiser one."
+        ]
+      },
+      "LOVE": {
+        "STRONG": [
+          "Today is a good time to express your feelings openly and show someone you care. A small gesture or sincere message can bring warmth to your relationship.",
+          "Your emotional energy may feel warm and inviting today, making it easier to connect with someone special. Take the initiative and let your genuine feelings be known.",
+          "A simple conversation could bring you closer to someone today. Be open, affectionate, and willing to create a positive moment together."
+        ],
+        "WEAK": [
+          "Emotions may feel slightly sensitive today, so avoid reading too much into small words or actions. Give yourself and others a little space before reacting.",
+          "Misunderstandings may be easier to create today if feelings are left unspoken. Take a breath, communicate gently, and allow the relationship time to settle.",
+          "You may feel more emotionally cautious than usual today. Instead of forcing an answer or reaction, focus on honest communication and let trust grow naturally."
+        ]
+      },
+      "HEALTH": {
+        "STRONG": [
+          "Your energy may respond well to movement today, so take a walk, stretch, or enjoy a short workout. A little activity can help you feel refreshed and focused.",
+          "Today is favorable for taking care of your body through simple, active choices. Stay hydrated, move regularly, and use your energy rather than letting it become restless.",
+          "You may feel motivated to improve your daily condition today. Use that momentum to choose a healthy meal, get some movement, and establish one positive habit."
+        ],
+        "WEAK": [
+          "Your energy may feel lower than usual today, so avoid pushing yourself beyond your limits. Rest when needed and give your body time to recover.",
+          "Today calls for a gentler pace, especially if you have been tired recently. Focus on hydration, regular meals, and enough rest to restore your energy.",
+          "You may be more sensitive to stress or fatigue today. Listen to your body and remember that taking a short break can help you return with greater strength."
+        ]
+      },
+      "CAREER": {
+        "STRONG": [
+          "Today is a good day to take initiative on an important task or share a useful idea. Your willingness to act may help create visible progress.",
+          "Work may move more smoothly when you focus on one clear priority today. Take the lead where appropriate and turn your plans into practical action.",
+          "You may have a chance to make meaningful progress in your work today. Speak with confidence, organize your priorities, and take advantage of the momentum."
+        ],
+        "WEAK": [
+          "Work may feel slower or less organized today, so avoid forcing everything to happen at once. Focus on completing essential tasks one step at a time.",
+          "Communication or small delays may require extra patience today. Double-check important details and remember that steady progress is still progress.",
+          "You may encounter minor obstacles at work today, but they do not need to define the whole day. Stay calm, adjust your approach, and focus on what you can control."
+        ]
+      },
+      "CREATIVITY": {
+        "STRONG": [
+          "Your imagination may feel especially active today, making it a good time to write, design, create, or explore a new idea. Capture inspiration before it passes.",
+          "Fresh ideas may come naturally today, especially when you give yourself freedom to experiment. Start something small and let your creativity develop without demanding perfection.",
+          "Today favors creative expression and original thinking. Follow your curiosity, try a different approach, and allow yourself to create something simply for the joy of it."
+        ],
+        "WEAK": [
+          "Your creative energy may feel quieter today, so do not pressure yourself to produce perfect results. Give your mind room to rest and inspiration may return naturally.",
+          "You may find it harder to focus on creative work today. Instead of forcing ideas, collect inspiration and return to the project when your mind feels clearer.",
+          "Creative progress may come slowly today, but that does not mean your ideas are disappearing. Take a break, observe your surroundings, and let new inspiration develop naturally."
+        ]
+      },
+      "SOCIAL": {
+        "STRONG": [
+          "Your social energy may be especially positive today, making it a good time to reach out and reconnect with someone. A friendly conversation could open a useful or meaningful opportunity.",
+          "People may respond warmly to your openness today. Start a conversation, share your thoughts, and enjoy the positive connections that naturally develop.",
+          "Today favors communication and cooperation, so do not hesitate to contact someone you have been meaning to speak with. Your friendly approach may strengthen an important relationship."
+        ],
+        "WEAK": [
+          "You may feel less interested in socializing today, so give yourself permission to keep some distance. Choose calm conversations and avoid unnecessary arguments.",
+          "Small misunderstandings may arise more easily today, especially when emotions are involved. Listen carefully and think before responding to sensitive comments.",
+          "Your social energy may be somewhat limited today, so focus on a few meaningful interactions rather than trying to please everyone. Quiet time can help restore your balance."
+        ]
+      }
+    },
+    "TOMORROW": {
+      "WEALTH": {
+        "STRONG": [
+          "Tomorrow may bring a useful chance to improve your financial situation through a practical decision or new information. Review the details carefully and act where the opportunity makes sense.",
+          "Financial momentum may improve tomorrow, especially if you are willing to organize your plans and take action. Look for realistic opportunities rather than chasing quick results.",
+          "Tomorrow is a favorable time to make progress on a financial goal. A thoughtful purchase, savings decision, or new plan could help strengthen your longer-term position."
+        ],
+        "WEAK": [
+          "Tomorrow may require extra care with spending and financial commitments. Avoid rushing into decisions and give yourself time to review the consequences.",
+          "Financial matters may feel slightly uncertain tomorrow, so keeping your plans conservative could be helpful. Protecting your current resources may be more valuable than chasing a quick opportunity.",
+          "You may need to reconsider a money-related decision tomorrow before moving forward. Stay patient, check the details, and remember that waiting can create a better opportunity later."
+        ]
+      },
+      "LOVE": {
+        "STRONG": [
+          "Tomorrow may offer a warm opportunity to deepen a relationship through honest conversation. Take the initiative to express appreciation or spend meaningful time together.",
+          "Your romantic energy may become more open tomorrow, making it easier to communicate what is in your heart. A sincere gesture could bring a pleasant change to your relationship.",
+          "Tomorrow favors emotional connection and understanding. If someone matters to you, make time for them and let your actions show how much you care."
+        ],
+        "WEAK": [
+          "Tomorrow may bring some emotional sensitivity, so avoid making quick conclusions about someone's intentions. Give conversations time to develop naturally.",
+          "You may feel uncertain about a relationship tomorrow, but this is not necessarily a sign of a negative outcome. Stay honest, listen carefully, and allow trust to grow gradually.",
+          "Small differences may feel larger than they really are tomorrow. Choose patience over reaction and focus on understanding each other's perspective."
+        ]
+      },
+      "HEALTH": {
+        "STRONG": [
+          "Tomorrow is a good time to refresh your routine with movement, healthy food, and sufficient rest. One positive choice can set the tone for the rest of your week.",
+          "Your physical energy may respond well to active care tomorrow. Consider taking a longer walk, exercising, or preparing a nourishing meal for yourself.",
+          "Tomorrow favors rebuilding your energy through simple healthy habits. Pay attention to sleep, hydration, and movement, and use the day to strengthen your routine."
+        ],
+        "WEAK": [
+          "You may feel more tired than expected tomorrow, especially if you have been overworking yourself. Slow down where possible and give your body enough time to recover.",
+          "Tomorrow may be a day to prioritize rest rather than pushing for maximum productivity. A calmer schedule and regular meals can help you regain balance.",
+          "Your body may ask for extra care tomorrow, particularly if stress has been building. Listen to those signals and make recovery part of your plan."
+        ]
+      },
+      "CAREER": {
+        "STRONG": [
+          "Tomorrow may bring a chance to move an important work matter forward. Prepare clearly, communicate confidently, and take responsibility for the tasks that matter most.",
+          "Your professional momentum may improve tomorrow, especially when you focus on practical results. Use the opportunity to present an idea, complete a difficult task, or begin a useful project.",
+          "Tomorrow favors action and clear decisions in your work life. Set one meaningful goal and make visible progress toward it rather than spreading your attention too widely."
+        ],
+        "WEAK": [
+          "Work may require more patience tomorrow due to delays or unexpected changes. Stay flexible and avoid taking temporary setbacks personally.",
+          "Tomorrow may not move as quickly as you hope, so focus on preparation and careful execution. A slower pace can still produce valuable progress.",
+          "You may need to handle a minor workplace challenge tomorrow. Keep communication clear, double-check your work, and trust that consistency will help you move past it."
+        ]
+      },
+      "CREATIVITY": {
+        "STRONG": [
+          "Tomorrow may bring a fresh perspective that helps you see an old problem differently. Keep a notebook nearby and capture ideas as they appear.",
+          "Your creative energy may be stronger tomorrow, especially when you step outside your usual routine. Explore something unfamiliar and let curiosity guide your thinking.",
+          "Tomorrow is a good time to begin a creative project or revisit an idea you previously set aside. Your imagination may help you discover a more effective approach."
+        ],
+        "WEAK": [
+          "Creative ideas may take longer to develop tomorrow, so avoid judging yourself too quickly. Give yourself time to observe, rest, and gather inspiration.",
+          "You may feel mentally distracted tomorrow, making creative work more difficult than usual. Break the task into small pieces and focus on enjoying the process.",
+          "Tomorrow may be better for collecting ideas than finishing a major creative project. Stay curious and trust that quiet observation can become inspiration later."
+        ]
+      },
+      "SOCIAL": {
+        "STRONG": [
+          "Tomorrow may be a good time to expand your connections or reconnect with someone important. Be proactive in communication and allow conversations to develop naturally.",
+          "Your ability to communicate may be especially effective tomorrow. Share your ideas openly, listen with interest, and you may discover a valuable new connection.",
+          "Tomorrow favors cooperation and friendly interactions. Reaching out first could lead to a conversation that strengthens trust or creates a new opportunity."
+        ],
+        "WEAK": [
+          "Social interactions may require extra patience tomorrow, especially if different opinions come into play. Choose calm communication over trying to prove your point.",
+          "You may prefer more personal space tomorrow, and that is perfectly fine. Keep important relationships warm while giving yourself enough quiet time to recharge.",
+          "A misunderstanding could occur if conversations move too quickly tomorrow. Listen carefully, clarify your meaning, and give others the benefit of the doubt."
+        ]
+      }
+    },
+    "THIS_WEEK": {
+      "WEALTH": {
+        "STRONG": [
+          "This week may bring several chances to improve your financial position through careful planning and practical action. Focus on opportunities that support steady growth rather than quick gains.",
+          "Your financial flow may become more active this week, making it a good time to review your budget and explore useful opportunities. Consistent decisions can create meaningful progress.",
+          "This week favors financial organization and thoughtful expansion. Consider improving your savings plan, reviewing expenses, or developing a realistic new source of income."
+        ],
+        "WEAK": [
+          "Financial matters may require greater caution this week, particularly around unnecessary spending or uncertain opportunities. Keep your plans simple and focus on strengthening your financial foundation.",
+          "This week may bring some unexpected expenses or decisions that require careful thought. Avoid emotional spending and give yourself time to consider important commitments.",
+          "Your financial flow may feel uneven this week, but careful management can help you stay balanced. Protect your resources now and use this period to prepare for stronger opportunities ahead."
+        ]
+      },
+      "LOVE": {
+        "STRONG": [
+          "This week offers favorable energy for building closeness and creating meaningful moments with someone you care about. Honest communication and shared experiences can bring your relationship to a deeper level.",
+          "Romantic opportunities may become more visible this week, whether you are meeting someone new or strengthening an existing relationship. Be open to connection and take the initiative when your heart feels ready.",
+          "Your relationships may feel warmer and more supportive this week. Make time for meaningful conversations, express appreciation, and allow yourself to enjoy the positive flow of affection."
+        ],
+        "WEAK": [
+          "Emotional misunderstandings may require extra care this week, especially when expectations are not clearly communicated. Speak honestly and avoid making decisions based only on temporary feelings.",
+          "Your romantic life may feel somewhat uncertain this week, but patience can help reveal what is truly important. Give relationships room to breathe and focus on mutual understanding.",
+          "This week may test your patience in love, but a difficult moment does not have to become a lasting problem. Choose calm communication and allow trust to rebuild naturally."
+        ]
+      },
+      "HEALTH": {
+        "STRONG": [
+          "This week is a good opportunity to improve your physical condition through consistent movement and better daily habits. Choose realistic changes that you can continue beyond the week.",
+          "Your health energy may support a more active routine this week. Focus on regular sleep, balanced meals, and exercise that you genuinely enjoy.",
+          "This week favors rebuilding your vitality through consistency rather than extreme changes. Set one health goal and practice it throughout the week to create lasting momentum."
+        ],
+        "WEAK": [
+          "Your energy may fluctuate this week, so avoid pushing yourself continuously without enough recovery time. Prioritize sleep, regular meals, and gentle activity.",
+          "This week calls for closer attention to stress and fatigue. Reduce unnecessary pressure where possible and give yourself enough time to rest and recharge.",
+          "You may feel more sensitive to physical or emotional exhaustion this week. A slower routine and consistent self-care can help you regain balance and move forward with renewed energy."
+        ]
+      },
+      "CAREER": {
+        "STRONG": [
+          "This week may bring opportunities to make meaningful progress in your career through initiative and clear communication. Take responsibility for important tasks and make your strengths visible.",
+          "Your professional momentum may build throughout the week, especially when you focus on practical results. Use this period to begin projects, share ideas, or strengthen valuable connections.",
+          "This week favors career growth through focused action and cooperation. Choose your most important goal, organize your priorities, and take consistent steps toward it."
+        ],
+        "WEAK": [
+          "Work may feel more demanding or unpredictable this week, so avoid trying to solve everything at once. Stay organized and handle each challenge in order of importance.",
+          "Delays or communication issues may appear this week, but they can be managed with patience and careful planning. Double-check important details and keep your expectations flexible.",
+          "Your professional progress may feel slower than expected this week. Use the time to strengthen your skills, prepare carefully, and remember that quiet preparation can support future success."
+        ]
+      },
+      "CREATIVITY": {
+        "STRONG": [
+          "Your creative energy may expand this week, making it an excellent time to explore new ideas and begin meaningful projects. Give yourself freedom to experiment before deciding what works best.",
+          "This week may bring fresh inspiration through new experiences, conversations, or changes in your routine. Stay curious and record your ideas so they can develop into something useful.",
+          "Creative thinking may become one of your strongest assets this week. Try a different approach to an old problem and allow yourself to explore possibilities without overthinking the outcome."
+        ],
+        "WEAK": [
+          "Your creative flow may feel inconsistent this week, so avoid forcing inspiration on demand. Take time to observe, learn, and gather ideas that can become useful later.",
+          "You may experience periods of mental fatigue or distraction this week. Break creative projects into smaller steps and allow yourself enough rest between focused sessions.",
+          "Creative progress may be slower this week, but this can be a valuable period for reflection and preparation. Trust that ideas often grow quietly before they are ready to take shape."
+        ]
+      },
+      "SOCIAL": {
+        "STRONG": [
+          "This week favors new connections, cooperation, and meaningful conversations. Reach out to people who inspire you and be willing to participate in shared opportunities.",
+          "Your social energy may be especially active this week, helping you build stronger relationships or meet interesting new people. Stay open, communicate honestly, and take the initiative.",
+          "This week may bring useful opportunities through people and relationships. A simple introduction or conversation could lead to a connection that becomes valuable over time."
+        ],
+        "WEAK": [
+          "Social interactions may require more patience this week, especially when people have different expectations. Choose your words carefully and avoid unnecessary conflicts.",
+          "You may feel a stronger need for personal space this week. Maintain important connections while allowing yourself enough quiet time to restore your energy.",
+          "Relationships may feel slightly complicated this week, but patience can prevent small issues from becoming larger ones. Focus on listening and give people time to explain themselves."
+        ]
+      }
+    },
+    "THIS_MONTH": {
+      "WEALTH": {
+        "STRONG": [
+          "This month may provide opportunities to strengthen your financial position through careful planning and consistent action. Review your long-term priorities and direct your resources toward what truly matters.",
+          "Your financial momentum may gradually improve this month, especially if you organize your spending and pursue realistic opportunities. Focus on building sustainable progress rather than seeking instant results.",
+          "This month favors thoughtful financial growth and better resource management. Consider improving your savings, developing new skills, or exploring practical ways to expand your income."
+        ],
+        "WEAK": [
+          "Financial matters may require a conservative approach this month, particularly if unexpected expenses arise. Protect your savings, avoid unnecessary risks, and give important decisions enough time.",
+          "Your financial flow may feel less predictable this month, so careful planning will be especially valuable. Focus on reducing waste and strengthening your foundation before taking larger steps.",
+          "This month may not be ideal for impulsive financial decisions or excessive risk-taking. Use the period to review your goals and prepare carefully for better opportunities ahead."
+        ]
+      },
+      "LOVE": {
+        "STRONG": [
+          "This month offers a supportive atmosphere for deepening relationships and creating meaningful emotional connections. Make time for honest conversations and shared experiences that help you understand each other better.",
+          "Your love life may become more active and fulfilling this month, especially when you are willing to express your feelings clearly. If you are single, remain open to meeting someone through natural social connections.",
+          "Romantic energy may develop steadily throughout the month. Focus on trust, appreciation, and genuine communication, and allow relationships to grow at a comfortable pace."
+        ],
+        "WEAK": [
+          "Emotional uncertainty may require patience this month, especially if expectations and reality do not immediately match. Avoid making permanent decisions based on temporary emotions.",
+          "Relationships may go through a period of adjustment this month, but honest communication can help restore balance. Give yourself and others enough time to understand what is truly needed.",
+          "Your romantic life may feel quieter or more complicated this month. Rather than forcing progress, focus on emotional clarity and let healthy connections develop naturally."
+        ]
+      },
+      "HEALTH": {
+        "STRONG": [
+          "This month is a good time to establish healthier routines that can continue for the long term. Focus on regular exercise, balanced nutrition, and a sleep schedule that supports your energy.",
+          "Your overall vitality may benefit from consistent self-care this month. Choose sustainable habits instead of extreme changes and gradually build a routine that feels natural.",
+          "This month favors a stronger connection between your daily habits and your overall well-being. Use your motivation to improve one area at a time and create changes you can maintain."
+        ],
+        "WEAK": [
+          "Your energy may require more careful management this month, especially if stress or irregular routines have been building. Make recovery a priority and avoid pushing yourself beyond reasonable limits.",
+          "This month may remind you to pay closer attention to your body's signals and daily rhythm. Focus on rest, balanced habits, and reducing unnecessary sources of stress.",
+          "You may experience periods of lower energy this month, but consistent self-care can help you regain stability. Give yourself permission to slow down and rebuild your strength gradually."
+        ]
+      },
+      "CAREER": {
+        "STRONG": [
+          "This month may bring meaningful opportunities for career development through focused effort and strong communication. Take on responsibilities that allow you to demonstrate your abilities and build your reputation.",
+          "Your professional direction may become clearer this month, making it a good time to organize your goals and take practical action. Consistency and initiative can create valuable momentum.",
+          "This month favors progress through planning, cooperation, and decisive action. Consider which project or skill could have the greatest long-term impact and invest your energy there."
+        ],
+        "WEAK": [
+          "Career progress may feel slower or less predictable this month, so avoid judging your success too quickly. Use the time to improve your skills, review your direction, and prepare for future opportunities.",
+          "Workplace pressure or changing circumstances may require additional flexibility this month. Stay organized, communicate clearly, and focus on what you can realistically control.",
+          "This month may bring professional challenges that test your patience, but they can also reveal areas where you can grow. Move carefully, learn from experience, and trust that steady preparation has value."
+        ]
+      },
+      "CREATIVITY": {
+        "STRONG": [
+          "Your creative potential may become especially active this month, encouraging you to begin or develop a meaningful project. Give your ideas enough time and space to grow into something substantial.",
+          "This month may bring inspiration through new experiences, learning, or collaboration. Explore unfamiliar perspectives and turn your strongest ideas into practical experiments.",
+          "Your imagination may help you find new solutions to old problems this month. Stay open to experimentation and do not be afraid to change your approach when a better possibility appears."
+        ],
+        "WEAK": [
+          "Your creative energy may develop more slowly this month, making it a better time for preparation than pressure. Collect ideas, learn new things, and allow inspiration to return naturally.",
+          "You may need more time to find the right direction for creative work this month. Instead of forcing immediate results, explore different possibilities and trust the process.",
+          "Creative uncertainty may be present this month, but it can also encourage deeper reflection. Give yourself permission to experiment without demanding perfection, and new ideas may gradually emerge."
+        ]
+      },
+      "SOCIAL": {
+        "STRONG": [
+          "This month may bring valuable opportunities through relationships, teamwork, and new connections. Be willing to meet people outside your usual circle and share your ideas openly.",
+          "Your social life may become more active and rewarding this month. Strong communication and genuine interest in others can help you build relationships that continue to benefit you over time.",
+          "This month favors cooperation and meaningful networking. Reach out to people you respect, participate in shared activities, and allow new relationships to develop naturally."
+        ],
+        "WEAK": [
+          "Social relationships may require extra patience this month, particularly when expectations differ. Protect your boundaries while making an effort to communicate clearly and respectfully.",
+          "You may feel more selective about the people you spend time with this month. Focus on sincere relationships and do not feel pressured to maintain every connection.",
+          "Some relationships may go through a period of adjustment this month. Give yourself and others room to change, and remember that healthy connections can survive temporary distance."
+        ]
+      }
+    },
+    "THIS_YEAR": {
+      "WEALTH": {
+        "STRONG": [
+          "This year may offer meaningful opportunities to strengthen your financial foundation and expand your resources. Focus on long-term planning, skill development, and sustainable decisions rather than short-term gains.",
+          "Your financial direction may gradually improve throughout the year as consistent choices begin to accumulate. Review your goals regularly and invest your time and resources in opportunities with lasting potential.",
+          "This year favors thoughtful financial growth and the development of greater independence. Build strong habits, explore realistic opportunities, and allow your progress to develop steadily over time."
+        ],
+        "WEAK": [
+          "Financial matters may require careful management throughout the year, especially when unexpected changes arise. Keep a clear budget, avoid unnecessary risks, and focus on building a stronger foundation step by step.",
+          "This year may bring periods when financial decisions require more patience and preparation. Rather than rushing toward quick results, use the time to reduce unnecessary expenses and strengthen your long-term plans.",
+          "Your financial flow may feel uneven at times this year, but careful management can help you maintain stability. Treat challenges as opportunities to improve your financial habits and prepare for better possibilities ahead."
+        ]
+      },
+      "LOVE": {
+        "STRONG": [
+          "This year may bring meaningful growth in your emotional life, whether through a new relationship or deeper connection with someone already close to you. Focus on honest communication and build relationships that support mutual growth.",
+          "Your romantic energy may become more open and fulfilling throughout the year. Give yourself opportunities to meet people, express your feelings, and create relationships based on trust and genuine understanding.",
+          "This year favors steady emotional development and stronger connections. Rather than focusing only on exciting beginnings, invest in communication, respect, and the small moments that create lasting closeness."
+        ],
+        "WEAK": [
+          "Relationships may require patience and emotional maturity throughout the year, especially during periods of uncertainty or change. Focus on honest communication and allow healthy connections to develop at their own pace.",
+          "Your romantic life may go through moments of adjustment this year, but these experiences can help you understand what you truly value in a relationship. Avoid forcing outcomes and give yourself time to recognize what feels genuinely right.",
+          "This year may encourage you to become more thoughtful about love and emotional boundaries. Even if relationships feel uncertain at times, patience and self-understanding can guide you toward healthier connections."
+        ]
+      },
+      "HEALTH": {
+        "STRONG": [
+          "This year offers a good opportunity to build lasting habits that support your physical and emotional well-being. Focus on consistency rather than extremes, and create a lifestyle that gives you sustainable energy.",
+          "Your overall vitality may benefit from making health a long-term priority this year. Regular movement, balanced nutrition, sufficient rest, and stress management can help you create a stronger foundation.",
+          "This year favors gradual improvement in your daily well-being. Choose realistic habits that you can maintain throughout the seasons and let small positive changes accumulate into meaningful results."
+        ],
+        "WEAK": [
+          "This year may call for greater awareness of your energy levels and daily balance. Avoid consistently overextending yourself and make rest, healthy routines, and stress management part of your long-term plan.",
+          "Your well-being may fluctuate throughout the year, making consistency more important than intensity. Listen to your body, maintain supportive routines, and give yourself enough time to recover when life becomes demanding.",
+          "This year encourages you to become more attentive to your overall balance and lifestyle. By respecting your limits and building healthy habits gradually, you can create a more stable foundation for the future."
+        ]
+      },
+      "CAREER": {
+        "STRONG": [
+          "This year may bring opportunities for meaningful professional growth, especially when you take responsibility and invest in your skills. Set clear long-term goals and take consistent action toward the direction you want to build.",
+          "Your career may gain momentum throughout the year through new responsibilities, learning, or valuable connections. Be willing to step beyond your comfort zone while keeping your long-term priorities in view.",
+          "This year favors steady career development and greater recognition of your abilities. Focus on building expertise, strengthening relationships, and choosing opportunities that support the future you want."
+        ],
+        "WEAK": [
+          "Career progress may require patience and flexibility this year, especially if circumstances change unexpectedly. Use challenging periods to strengthen your skills and reconsider your direction when necessary.",
+          "Your professional path may feel less predictable at times this year, but that can also create space for learning and adjustment. Focus on building useful experience and avoid measuring your progress only by immediate results.",
+          "This year may bring professional challenges that require careful decisions and persistence. Stay open to changing your approach, continue developing your abilities, and trust that steady preparation can create stronger opportunities later."
+        ]
+      },
+      "CREATIVITY": {
+        "STRONG": [
+          "This year may be especially supportive for developing creative ideas into meaningful projects or achievements. Give yourself time to explore, experiment, and gradually turn inspiration into something tangible.",
+          "Your imagination may become an important source of growth throughout the year. Learn from new experiences, collaborate with different people, and allow your creative direction to evolve naturally.",
+          "This year favors originality, learning, and creative expansion. Ideas that begin small may become increasingly meaningful when you give them consistent attention and the freedom to develop over time."
+        ],
+        "WEAK": [
+          "Creative progress may feel slower or less predictable this year, but this can be a valuable period for reflection and preparation. Use the time to learn, observe, and develop ideas without forcing immediate results.",
+          "You may experience periods of creative uncertainty throughout the year. Rather than judging yourself by constant productivity, allow yourself to explore new interests and trust that inspiration can return in unexpected ways.",
+          "This year may encourage you to rethink how you approach creativity and personal expression. Take your time, experiment without pressure, and let deeper ideas develop at their own pace."
+        ]
+      },
+      "SOCIAL": {
+        "STRONG": [
+          "This year may expand your social world through new relationships, teamwork, and meaningful connections. Stay open to meeting different kinds of people and invest your energy in relationships built on mutual respect.",
+          "Your relationships may become an important source of opportunity and personal growth this year. Communicate openly, participate in new communities, and nurture the connections that bring genuine value to your life.",
+          "This year favors expanding your network while deepening the relationships that matter most. A new connection may become meaningful over time, so remain curious and willing to engage with others."
+        ],
+        "WEAK": [
+          "Social relationships may require patience and careful boundaries this year, particularly as people and circumstances change. Focus on sincere connections and allow unnecessary relationships to naturally become less important.",
+          "You may experience periods of distance or misunderstanding in some relationships this year. Use these moments to clarify what you truly value and communicate your needs with honesty and kindness.",
+          "Your social life may go through some changes this year, but not every change is negative. Give yourself time to adjust, protect your energy, and trust that healthier connections can develop as you grow."
+        ]
+      }
+    }
+  },
+  "life_prompt": "You are a Western-style interpreter of Korean Four Pillars of Destiny (Saju/BaZi). Generate a personalized lifetime personality and life tendency reading based only on the information provided in the input. Present the interpretation as a reflective and entertaining reading, not as a certain prediction of the future.\n\n[INPUT VARIABLES]\nDay Master: {stem_name} ({element})\nStrength: {strength_level}\nFavorable Element (Yongsin): {element}\nStrong Elements: {element_list}\nWeak Elements: {element_list}\nKey Traits: {tag_list}\n\n[WRITING RULES]\n\n* Write approximately 200~300 English characters.\n* Write as one continuous paragraph with no line breaks.\n* Address the reader directly as \"you\".\n* Use a warm, personal, encouraging, and natural tone.\n* Make the reading feel personalized and meaningful without exaggerating certainty.\n* Follow this general flow: Day Master personality → Strength characteristics → Strong and weak element tendencies → Key Traits → Favorable Element advice.\n* Explain the Day Master characteristics in simple, everyday language.\n* Explain how the Strength level may influence the reader's tendencies, confidence, decision-making, and relationships.\n* Naturally incorporate the Strong Elements and Weak Elements without listing them mechanically.\n* Reflect the Key Traits as recognizable strengths or tendencies in daily life.\n* End with practical and hopeful advice connected to the Favorable Element.\n* Use phrases such as \"you tend to...\", \"you may find...\", \"you have a natural...\", and \"you may benefit from...\".\n* Do not mention technical Saju/BaZi terminology unless necessary for clarity.\n* Do not invent personality traits, life events, circumstances, or information that are not supported by the provided input.\n* Do not make specific predictions about future events.\n* Do not predict illness, death, accidents, disasters, financial ruin, or other harmful outcomes.\n* Do not use absolute expressions such as \"destined\", \"definitely\", \"always\", or \"never\".\n* Do not state that the reading is scientifically proven or factually certain.\n* Do not mention the input variables, prompt, system, algorithm, or AI.\n* Do not use headings, bullet points, or line breaks.\n* The final sentence should leave the reader with a hopeful, practical direction for personal growth.\n\n[OUTPUT]\nReturn only the completed lifetime reading in English as one continuous paragraph."
+}
