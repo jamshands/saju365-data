@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>이용약관 / Terms of Service – Saju365</title>
+  <style>
+    :root {
+      --gold: #C9A84C;
+      --gold-light: #F9F3E3;
+      --indigo: #1a1f3c;
+      --text: #1a222a;
+      --text-secondary: #4a5866;
+      --border: #e0d9c8;
+      --bg: #f9f7f2;
+      --white: #ffffff;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.8;
+      font-size: 15px;
+    }
+
+    header {
+      background: var(--indigo);
+      padding: 32px 24px 24px;
+      text-align: center;
+    }
+
+    header .app-icon {
+      font-size: 44px;
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    header h1 {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--gold);
+      letter-spacing: 0.5px;
+    }
+
+    header p {
+      font-size: 13px;
+      color: #aaa;
+      margin-top: 6px;
+    }
+
+    .lang-switch {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      padding: 14px 0;
+      background: var(--indigo);
+      border-top: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .lang-switch a {
+      color: #aaa;
+      font-size: 13px;
+      text-decoration: none;
+      padding: 4px 12px;
+      border-radius: 20px;
+      border: 1px solid rgba(255,255,255,0.15);
+    }
+
+    .lang-switch a.active {
+      color: var(--gold);
+      border-color: var(--gold);
+    }
+
+    .notice-bar {
+      background: var(--gold-light);
+      border-left: 4px solid var(--gold);
+      padding: 14px 20px;
+      margin: 20px 16px;
+      border-radius: 0 8px 8px 0;
+      font-size: 14px;
+      color: var(--text);
+    }
+
+    .notice-bar strong { color: var(--gold); }
+
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 16px 60px;
+    }
+
+    .lang-section { display: none; }
+    .lang-section.active { display: block; }
+
+    section {
+      background: var(--white);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      padding: 24px 20px;
+      margin-bottom: 16px;
+    }
+
+    section h2 {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    section h2 .num {
+      background: var(--gold);
+      color: var(--indigo);
+      font-size: 12px;
+      font-weight: 700;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    p { margin-bottom: 10px; color: var(--text-secondary); }
+    p:last-child { margin-bottom: 0; }
+
+    ul {
+      padding-left: 0;
+      list-style: none;
+      margin-bottom: 10px;
+    }
+
+    ul li {
+      padding: 6px 0 6px 18px;
+      position: relative;
+      color: var(--text-secondary);
+      border-bottom: 1px solid var(--gold-light);
+      font-size: 14px;
+    }
+
+    ul li:last-child { border-bottom: none; }
+
+    ul li::before {
+      content: '▸';
+      color: var(--gold);
+      position: absolute;
+      left: 0;
+      font-size: 11px;
+      top: 8px;
+    }
+
+    .highlight-box {
+      background: var(--gold-light);
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin-top: 12px;
+      font-size: 14px;
+      color: var(--text);
+    }
+
+    .highlight-box strong { color: var(--gold); }
+
+    .contact-box {
+      background: var(--gold-light);
+      border-radius: 10px;
+      padding: 16px 20px;
+      margin-top: 12px;
+    }
+
+    .contact-box p { margin-bottom: 4px; font-size: 14px; }
+
+    a { color: var(--gold); }
+
+    footer {
+      text-align: center;
+      padding: 24px 16px;
+      font-size: 12px;
+      color: #aaa;
+    }
+
+    @media (max-width: 480px) {
+      header h1 { font-size: 18px; }
+      section { padding: 18px 14px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <span class="app-icon">☯</span>
+  <h1>Saju365 – 이용약관 / Terms of Service</h1>
+  <p>시행일 / Effective Date: 2026년 7월 24일 / July 24, 2026</p>
+</header>
+
+<div class="lang-switch">
+  <a href="#" class="active" onclick="setLang('ko'); return false;">🇰🇷 한국어</a>
+  <a href="#" onclick="setLang('en'); return false;">🇺🇸 English</a>
+</div>
+
+<!-- ════════════════ 한국어 ════════════════ -->
+<div class="lang-section active" id="lang-ko">
+
+  <div class="notice-bar">
+    <strong>📋 사주365 이용약관</strong><br>
+    본 약관은 GuardPhrase Studio가 제공하는 사주365 앱 서비스 이용에 관한 조건을 규정합니다.
+  </div>
+
+  <main>
+
+    <section>
+      <h2><span class="num">1</span> 총칙</h2>
+      <p>본 이용약관("약관")은 GuardPhrase Studio("개발자")가 제공하는 사주365 애플리케이션("앱") 및 관련 서비스("서비스")의 이용 조건을 규정합니다.</p>
+      <p>앱을 설치하거나 사용함으로써 본 약관에 동의하는 것으로 간주됩니다. 동의하지 않는 경우 앱을 사용하지 마십시오.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">2</span> 서비스 내용</h2>
+      <p>사주365는 다음과 같은 서비스를 제공합니다:</p>
+      <ul>
+        <li>사주팔자(四柱八字) 계산 및 운세 풀이</li>
+        <li>오늘·이번주·이번달·1년·평생 운세 제공</li>
+        <li>두 사람의 궁합 점수 및 분석</li>
+        <li>AI 기반 사주 풀이 및 상담 (선택적, 광고 시청 후 이용)</li>
+        <li>행운 이미지 생성 (선택적, 광고 시청 후 이용)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">3</span> 이용 조건</h2>
+      <ul>
+        <li>본 앱은 만 13세 이상의 사용자를 대상으로 합니다</li>
+        <li>앱을 불법적인 목적이나 타인에게 해를 끼치는 방식으로 사용할 수 없습니다</li>
+        <li>앱의 소스코드, 리소스, 콘텐츠를 무단으로 복제·배포·수정·역공학할 수 없습니다</li>
+        <li>자동화된 방법으로 서비스를 과도하게 호출하거나 서버에 부하를 주는 행위를 금합니다</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">4</span> 면책 조항</h2>
+      <p>사주365가 제공하는 운세·궁합 풀이는 <strong>오락 및 참고 목적</strong>으로만 제공됩니다.</p>
+      <ul>
+        <li>운세 결과는 전문적인 법률·의료·재정·심리 상담을 대체하지 않습니다</li>
+        <li>운세 결과의 정확성, 완전성, 적합성에 대해 어떠한 보증도 하지 않습니다</li>
+        <li>운세 결과를 근거로 한 사용자의 의사결정에 대해 개발자는 책임을 지지 않습니다</li>
+        <li>AI가 생성한 풀이 내용은 AI 모델의 특성상 부정확할 수 있습니다</li>
+      </ul>
+      <div class="highlight-box">
+        <strong>⚠️ 중요:</strong> 중요한 결정(투자, 결혼, 진로 등)은 반드시 전문가와 상담하십시오.
+      </div>
+    </section>
+
+    <section>
+      <h2><span class="num">5</span> 광고 및 수익</h2>
+      <ul>
+        <li>앱은 Google AdMob을 통한 배너 광고 및 리워드 광고를 제공합니다</li>
+        <li>리워드 광고 시청은 AI 풀이 및 행운 이미지 생성을 위한 조건입니다</li>
+        <li>광고 콘텐츠는 Google이 제공하며, 개발자는 광고 내용에 대해 책임지지 않습니다</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">6</span> 지적 재산권</h2>
+      <ul>
+        <li>앱의 UI, 디자인, 소스코드, 콘텐츠에 대한 모든 권리는 GuardPhrase Studio에 있습니다</li>
+        <li>사용자는 개인적·비상업적 목적으로만 앱을 사용할 수 있습니다</li>
+        <li>앱 내 콘텐츠를 무단으로 상업적으로 이용하는 것을 금합니다</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">7</span> 서비스 변경 및 중단</h2>
+      <ul>
+        <li>개발자는 사전 고지 없이 서비스의 일부 또는 전부를 변경·중단할 수 있습니다</li>
+        <li>서비스 변경·중단으로 인한 손해에 대해 개발자는 책임을 지지 않습니다</li>
+        <li>앱 업데이트를 통해 기능이 추가되거나 변경될 수 있습니다</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">8</span> 약관 변경</h2>
+      <p>개발자는 필요에 따라 본 약관을 변경할 수 있습니다. 변경된 약관은 앱 업데이트 또는 본 페이지를 통해 공지됩니다. 변경 후에도 앱을 계속 사용하면 변경된 약관에 동의한 것으로 간주됩니다.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">9</span> 준거법</h2>
+      <p>본 약관은 대한민국 법률에 따라 해석되며, 분쟁 발생 시 대한민국 법원을 관할 법원으로 합니다.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">10</span> 문의</h2>
+      <div class="contact-box">
+        <p><strong>앱:</strong> 사주365</p>
+        <p><strong>개발자:</strong> GuardPhrase Studio</p>
+        <p><strong>이메일:</strong> guardphrase365@gmail.com</p>
+        <p><strong>시행일:</strong> 2026년 7월 24일</p>
+        <p><strong>최종 수정:</strong> 2026년 7월 24일</p>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<!-- ════════════════ English ════════════════ -->
+<div class="lang-section" id="lang-en">
+
+  <div class="notice-bar">
+    <strong>📋 Saju365 Terms of Service</strong><br>
+    These terms govern your use of the Saju365 app provided by GuardPhrase Studio.
+  </div>
+
+  <main>
+
+    <section>
+      <h2><span class="num">1</span> Overview</h2>
+      <p>These Terms of Service ("Terms") govern your use of the Saju365 application ("App") and related services ("Service") provided by GuardPhrase Studio ("Developer").</p>
+      <p>By installing or using the App, you agree to these Terms. If you do not agree, please do not use the App.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">2</span> Service Description</h2>
+      <p>Saju365 provides the following services:</p>
+      <ul>
+        <li>Four Pillars of Destiny (Saju/BaZi) calculation and fortune readings</li>
+        <li>Daily, weekly, monthly, yearly, and lifetime fortune readings</li>
+        <li>Compatibility (Gunghap) scores and analysis between two charts</li>
+        <li>AI-powered fortune readings and consultations (optional, requires watching a rewarded ad)</li>
+        <li>Lucky image generation (optional, requires watching a rewarded ad)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">3</span> Conditions of Use</h2>
+      <ul>
+        <li>The App is intended for users aged 13 and older</li>
+        <li>You may not use the App for illegal purposes or in ways that harm others</li>
+        <li>You may not copy, distribute, modify, or reverse-engineer the App's source code, resources, or content without permission</li>
+        <li>You may not use automated methods to excessively call the service or overload the server</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">4</span> Disclaimer</h2>
+      <p>Fortune readings and compatibility analyses provided by Saju365 are for <strong>entertainment and personal reflection purposes only</strong>.</p>
+      <ul>
+        <li>Readings do not substitute professional legal, medical, financial, or psychological advice</li>
+        <li>No warranty is made regarding the accuracy, completeness, or suitability of any reading</li>
+        <li>The Developer is not responsible for decisions made based on reading results</li>
+        <li>AI-generated readings may be inaccurate due to the nature of AI models</li>
+      </ul>
+      <div class="highlight-box">
+        <strong>⚠️ Important:</strong> For major decisions (investments, marriage, career, etc.), always consult a qualified professional.
+      </div>
+    </section>
+
+    <section>
+      <h2><span class="num">5</span> Advertising and Revenue</h2>
+      <ul>
+        <li>The App displays banner and rewarded advertisements via Google AdMob</li>
+        <li>Watching a rewarded ad is required to access AI readings and lucky image generation</li>
+        <li>Ad content is provided by Google; the Developer is not responsible for ad content</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">6</span> Intellectual Property</h2>
+      <ul>
+        <li>All rights to the App's UI, design, source code, and content belong to GuardPhrase Studio</li>
+        <li>You may use the App for personal, non-commercial purposes only</li>
+        <li>Unauthorized commercial use of App content is prohibited</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">7</span> Service Changes and Termination</h2>
+      <ul>
+        <li>The Developer may change or discontinue part or all of the Service without prior notice</li>
+        <li>The Developer is not liable for damages resulting from service changes or termination</li>
+        <li>Features may be added or changed through app updates</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">8</span> Changes to Terms</h2>
+      <p>The Developer may update these Terms as needed. Changes will be announced through app updates or this page. Continued use of the App after changes constitutes acceptance of the updated Terms.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">9</span> Governing Law</h2>
+      <p>These Terms are governed by the laws of the Republic of Korea. Any disputes shall be subject to the jurisdiction of Korean courts.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">10</span> Contact Us</h2>
+      <div class="contact-box">
+        <p><strong>App:</strong> Saju365</p>
+        <p><strong>Developer:</strong> GuardPhrase Studio</p>
+        <p><strong>Email:</strong> guardphrase365@gmail.com</p>
+        <p><strong>Effective Date:</strong> July 24, 2026</p>
+        <p><strong>Last Updated:</strong> July 24, 2026</p>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<footer>
+  © 2026 GuardPhrase Studio · 본 약관은 법률 또는 서비스 변경 시 업데이트될 수 있습니다.<br>
+  This policy may be updated when required by law or service changes.
+</footer>
+
+<script>
+  function setLang(lang) {
+    document.querySelectorAll('.lang-section').forEach(el => el.classList.remove('active'));
+    document.querySelectorAll('.lang-switch a').forEach(el => el.classList.remove('active'));
+    document.getElementById('lang-' + lang).classList.add('active');
+    event.target.classList.add('active');
+  }
+</script>
+
+</body>
+</html>
